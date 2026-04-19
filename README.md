@@ -24,7 +24,7 @@ A premium, interactive, and beautifully animated birthday celebration website bu
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Diya-14/fariha-birthday.git
+   git clone [https://github.com/Diya-14/fariha-birthday.git]
    cd fariha-birthday
    ```
 
